@@ -13,3 +13,17 @@
 [Google](https://www.google.com/)
 
 ![Tajmahal](https://upload.wikimedia.org/wikipedia/commons/d/da/Taj-Mahal.jpg)
+
+* Fruits
+  * Oranges
+  * Apples
+  * Bananas
+1. Vegetables
+    1. Tomatoes
+    2. onions
+    3. carrot
+
+sno|Name
+----|----
+1|Bhavya
+2|Kavitha
